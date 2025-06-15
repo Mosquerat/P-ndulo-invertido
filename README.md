@@ -24,4 +24,4 @@ Diseñamos un chasis minimalista con 4 agujeros cuadrados para pasar el cable de
 
     Codigo:
 
-No tuvimos tiempo de probar el codigo debidamente, sin embargo, lo cuelgo en el archivo, pendulo_pid.cpp para lectura de parte del profesor.
+No tuvimos tiempo de probar el codigo debidamente, sin embargo, lo cuelgo en el archivo, pendulo_pid.ino para lectura de parte del profesor.
